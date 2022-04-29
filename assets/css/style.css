@@ -195,3 +195,16 @@ button.active{
     height: 320px;
     
 }
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(216, 215, 215, 0.671);
+    text-align: center;
+    line-height: 100px;
+    
+}
+footer span{
+    vertical-align: middle;
+    display: inline-block;
+    line-height: normal;
+}
