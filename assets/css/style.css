@@ -2,8 +2,9 @@ body{
     font-family: 'Nunito', sans-serif;
     margin: 0px;
     padding: 0px;
+    background-color: white;
 }
-.container{
+.container {
     margin: 0px;
     padding: 0px;
     position: relative;
@@ -207,4 +208,33 @@ footer span{
     vertical-align: middle;
     display: inline-block;
     line-height: normal;
+}
+#enroll{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: #000000;
+
+}
+.projects{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: #000000;
+}
+#bike{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    padding: 10px;
+}
+#bike img{
+    width: 300px;
+    float: right;
 }
