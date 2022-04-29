@@ -26,6 +26,10 @@ button.active{
     color: #EC4067;
     border-radius: 0px;
 }
+a{
+    text-decoration: none;
+    color: #EC4067;
+}
 #logo{
     width: 200px;
     display: inline-block;
@@ -213,20 +217,23 @@ footer span{
     margin: 0px;
     padding: 0px;
     margin-top: 80px;
-    padding: 10px;
-    margin-left: 80px;
-    margin-right: 80px;
-    background-color: #000000;
+    font-size: 22px;
 
 }
-.projects{
+#enroll h2{
+    color: #EC4067;
+    font-weight: lighter;
+    font-size:xx-large;
+    margin-bottom: 2px;
+
+}
+.project{
     margin: 0px;
     padding: 0px;
     margin-top: 80px;
-    padding: 10px;
     margin-left: 80px;
     margin-right: 80px;
-    background-color: #000000;
+    margin-bottom: 40px;
 }
 #bike{
     margin: 0px;
