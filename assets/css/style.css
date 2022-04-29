@@ -134,3 +134,8 @@ button.active{
 #graduation{
 
 }
+#board img{
+    width: 400px;
+    float: right;
+    margin-left: 60px;
+}
