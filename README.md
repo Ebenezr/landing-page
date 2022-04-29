@@ -9,10 +9,12 @@ the project has been implementented using html and CSS
 ***
 ## Technologies
 
-languages used are: HTML CSS 
-***
+languages used are: 
+-HTML 
+-CSS 
+
 I used html and css technologies 
- chalenges 
+*** 
 ## How to set up and run the project
 
 
