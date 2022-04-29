@@ -100,3 +100,37 @@ button.active{
     margin-top: 0px;
     margin-bottom: 0px;
 }
+.stories{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+   
+
+}
+.stories h2{
+    display: inline-block;
+}
+#orientation {
+  height: 300px;
+
+    
+}
+#orientation h2{
+  margin-bottom: 0px;
+
+    
+}
+#orientation img{
+    width: 400px;
+    float: left;
+    margin-right: 60px;
+}
+#orientation p{
+   
+}
+#graduation{
+
+}
