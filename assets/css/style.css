@@ -168,14 +168,21 @@ a{
     margin-left: 80px;
     margin-right: 80px;
 }
+.teams h2:nth-child(1){
+    display: inline-block;
+    margin-right: 8px;
+    font-weight: 300;
+    background-color: rgb(202, 201, 201);
+    background-size: 50% auto;
+}
 .members{
-    display: inline-flex;
+    display:block;
 }
 .members img{
     position: relative;
     top: 0px;
     margin: 0px;
-    width: 174px;
+    width: 170px;
 
 
 }
@@ -195,9 +202,10 @@ a{
     margin-left: 10px;
 }
 .members .tms{
-    width: 174px;
+    width: 170px;
     margin: 16px;
     height: 320px;
+    display: inline-block;
     
 }
 footer{
