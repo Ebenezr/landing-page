@@ -222,10 +222,14 @@ footer span{
     line-height: normal;
 }
 #enroll{
+
     margin: 0px;
+    margin-left: 80px;
+    margin-right: 80px;
     padding: 0px;
     margin-top: 80px;
     font-size: 22px;
+    margin-bottom: 40px;
 
 }
 #enroll h2{
@@ -243,10 +247,18 @@ footer span{
     margin-right: 80px;
     margin-bottom: 40px;
 }
+.project h2:nth-child(1){
+    display: inline-block;
+    margin-right: 8px;
+    font-weight: 300;
+    background-color: rgb(202, 201, 201);
+    background-size: 50% auto;
+    margin-bottom: 0px;
+}
 #bike{
     margin: 0px;
     padding: 0px;
-    margin-top: 80px;
+    margin-top: 40px;
     padding: 10px;
 }
 #bike img{
