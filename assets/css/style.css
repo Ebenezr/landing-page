@@ -1,0 +1,22 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+#logo{
+    position: relative;
+    top: 7px;
+    left: 12px;
+
+}
+.first{
+    color: red;
+}
+.second{
+    color:black;
+}
