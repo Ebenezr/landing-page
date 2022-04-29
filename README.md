@@ -8,7 +8,9 @@ the project has been implementented using html and CSS
 **Ebenezar Bukosia**
 ## Technologies
 ***
-languages used are:>HTML: HTML5>CSS: CSS4.results:
+languages used are:
+HTML: HTML5 
+CSS: CSS4.
 
 I used html and css technologies 
  chalenges 
