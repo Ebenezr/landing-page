@@ -110,11 +110,17 @@ button.active{
    
 
 }
-.stories h2{
+.stories h2:nth-child(1){
     display: inline-block;
+    margin-right: 8px;
+    font-weight: 300;
+    background-color: rgb(202, 201, 201);
+    background-size: 50% auto;
 }
 #orientation {
   height: 300px;
+  margin-top: 20px;
+  
 
     
 }
@@ -128,14 +134,64 @@ button.active{
     float: left;
     margin-right: 60px;
 }
-#orientation p{
+#board{
+    margin-top: 40px;
+    height: 300px;
+    
    
 }
 #graduation{
-
+    margin-top: 40px;
+    height: 300px;
+   
 }
 #board img{
     width: 400px;
     float: right;
     margin-left: 60px;
+}
+#graduation img{
+    width: 400px;
+    float: left;
+    margin-right: 60px;
+}
+.teams{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.members{
+    display: inline-flex;
+}
+.members img{
+    position: relative;
+    top: 0px;
+    margin: 0px;
+    width: 174px;
+
+
+}
+.members p{
+    font-size: smaller;
+}
+.members h3{
+    font-size: small;
+    color: #EC4067;
+    margin-left: 10px;
+}
+.members p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.members button{
+    margin-left: 10px;
+}
+.members .tms{
+    width: 174px;
+    margin: 16px;
+    height: 320px;
+    
 }
