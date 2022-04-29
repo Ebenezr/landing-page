@@ -242,6 +242,17 @@ footer span{
     padding: 10px;
 }
 #bike img{
-    width: 300px;
+    width: 550px;
     float: right;
+}
+#bike h4{
+    margin-bottom: 0px;
+}
+#bike h2{
+    font-weight:lighter;
+    font-size:xx-large;
+    color: #EC4067;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
