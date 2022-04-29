@@ -9,14 +9,46 @@ body{
     position: relative;
 }
 #logo{
-    position: relative;
-    top: 7px;
-    left: 12px;
-
+    width: 200px;
+    display: inline-block;
+    margin-left: 40px;
 }
 .first{
-    color: red;
+    color: #EC4067;
 }
 .second{
     color:black;
+}
+#navbar li a{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 1px 16px;
+    text-align: center;
+    border-radius: 4px;
+    
+
+}
+#navbar a.active{
+    background-color: #EC4067;
+    color: white;
+    
+}
+#navbar{
+    display: inline-flex;
+    float: right;
+    margin-right: 40px;
+    margin-top: 25px;
+    
+}
+#navbar li{
+    display: block;
+
+    
+}
+#navbar ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
 }
