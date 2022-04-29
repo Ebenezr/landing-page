@@ -10,8 +10,8 @@ the project has been implementented using html and CSS
 ## Technologies
 
 languages used are: 
-- HTML 
-- CSS 
+- HTML :HTML5
+- CSS :CSS4
 
 I used html and css technologies 
 *** 
