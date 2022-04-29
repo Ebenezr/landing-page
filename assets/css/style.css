@@ -8,6 +8,23 @@ body{
     padding: 0px;
     position: relative;
 }
+button{
+    padding: 8px 16px;
+    text-align: center;
+    border: none;
+    display: inline-block;
+    background-color: #EC4067;
+    border-radius: 4px;
+    color: white;
+    margin-right: 14px;
+}
+button.active{
+    padding: 8px 16px;
+    border: solid 1px #EC4067;
+    background-color: white;
+    color: #EC4067;
+    border-radius: 0px;
+}
 #logo{
     width: 200px;
     display: inline-block;
@@ -40,6 +57,7 @@ body{
     margin-right: 40px;
     margin-top: 25px;
     
+    
 }
 #navbar li{
     display: block;
@@ -51,4 +69,34 @@ body{
     margin: 0px;
     padding: 0px;
     overflow: hidden;
+}
+#moringa{
+    margin: 0px;
+    margin-top: 80px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 250px;
+    }
+#moringa img{
+    width: 300px;
+    float: right;
+    
+}
+#moringa p:nth-child(2){
+    color: black;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+#moringa p:nth-child(4){
+    color: #000000;
+    margin-top: 0px;
+    padding-top: 2px;
+}
+#moringa h2{
+    font-weight:lighter;
+    font-size:xx-large;
+    color: #EC4067;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
