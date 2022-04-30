@@ -23,8 +23,8 @@ change directory using command
 - $cd landing-page
 
 #### method two
-    run the following live link in your browser
-    ebenezr.github.io/landing-page/
+   - run the following live link in your browser
+    [ebenezr.github.io/landing-page/]
 
 ***
 ## How to use the project
