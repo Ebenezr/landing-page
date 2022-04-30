@@ -24,7 +24,7 @@ change directory using command
 
 #### method two
    - run the following live link in your browser
-    [ebenezr.github.io/landing-page/]
+    [https://ebenezr.github.io/landing-page/]
 
 ***
 ## How to use the project
