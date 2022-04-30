@@ -13,10 +13,18 @@ languages used are:
 - HTML :HTML5
 - CSS :CSS4
 
-I used html and css technologies 
+I used html in creating the page structure and css in styling the document
 *** 
 ## How to set up and run the project
+#### method one
+clone the repo using the command
+- $git clone https://github.com/Ebenezr/landing-page.git
+change directory using command
+- $cd landing-page
 
+#### method two
+   - run the following live link in your browser
+    [ebenezr.github.io/landing-page/]
 
 ***
 ## How to use the project
