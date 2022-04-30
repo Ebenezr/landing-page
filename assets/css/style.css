@@ -8,6 +8,8 @@ body{
     margin: 0px;
     padding: 0px;
     position: relative;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 button{
     padding: 10px 18px;
@@ -20,11 +22,16 @@ button{
     margin-right: 14px;
 }
 button.active{
-    padding: 8px 16px;
+    padding: 8px 20px;
     border: solid 1px #EC4067;
     background-color: white;
     color: #EC4067;
     border-radius: 0px;
+}
+button.nav-active{
+    padding: 8px 20px;
+    margin-left: 52px;
+    margin-top: 0px;
 }
 a{
     text-decoration: none;
@@ -41,7 +48,7 @@ a{
 .second{
     color:black;
 }
-#navbar li a{
+nav li a{
     text-decoration: none;
     color: black;
     display: inline-block;
@@ -51,12 +58,8 @@ a{
     
 
 }
-#navbar a.active{
-    background-color: #EC4067;
-    color: white;
-    
-}
-#navbar{
+
+nav{
     display: inline-flex;
     float: right;
     margin-right: 40px;
@@ -64,16 +67,17 @@ a{
     
     
 }
-#navbar li{
-    display: block;
+nav li{
+    display: inline-block;
 
     
 }
-#navbar ul{
+nav ul{
     list-style-type: none;
     margin: 0px;
     padding: 0px;
     overflow: hidden;
+    margin-top: 3px;
 }
 #moringa{
     margin: 0px;
@@ -176,12 +180,15 @@ a{
 }
 .members{
     display:block;
+    
+    
 }
 .members img{
-    position: relative;
+    display: block;
     top: 0px;
     margin: 0px;
     width: 170px;
+    
 
 
 }
