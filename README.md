@@ -9,7 +9,7 @@ the project has been implementented using html and CSS
 ***
 
 ## Screenshot
-![image](/assets/images/FireShot%20Capture%20001%20-%20Landing%20Page%20-%20ebenezr.github.io.png)
+![image](/assets/images/Capture.png)
 
 ## Table of content
 - [Technologies]
